@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dxhPQMep5EKFSAeQh512D+kLYVR0G1LDZqyPslTNlFA=",
+  "Source": "CHMAS.Backend",
+  "BasePath": "_content/CHMAS.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
