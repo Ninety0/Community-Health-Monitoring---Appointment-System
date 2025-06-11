@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CHMAS.Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29d0ace81a3d214ac6fff0d1dd0289043757ebb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CHMAS.Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CHMAS.Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
